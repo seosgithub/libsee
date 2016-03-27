@@ -3,7 +3,11 @@
 
 # What is this?
 
-Plubus is an agnostic micro-service router. 
+Frustrated that no GUI library in existance doesen't use a modified compiler (QT) doesn't support all platforms (gnome) or dosen't support C (nanogui)?
+*libsee* is a C99 crossplatform GUI library that is compatible with any platform that supports OpenGL. It's designed to be quick to integrate, relatively
+unopinionated, easy-to-use, high-performing, flexible, organized, and to give you the ability to draw vectors directly, provide an abstraction for the
+window, support mouse and keyboard input devices, text & fonts, image loading and colors. It is highly inspired by ui-kit on iOS but tries to bring the
+closest C-style.
 
 ## Features
   - [x] Bring your archaic HTTP api into the micro-service age without modifying the API
